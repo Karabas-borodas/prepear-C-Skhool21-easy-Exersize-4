@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "skhool21 easy 4", "skhool21 easy 4.csproj", "{DB925EC0-60F9-4DCB-9378-DC1C11219D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB925EC0-60F9-4DCB-9378-DC1C11219D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB925EC0-60F9-4DCB-9378-DC1C11219D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB925EC0-60F9-4DCB-9378-DC1C11219D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB925EC0-60F9-4DCB-9378-DC1C11219D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85BF23D4-1665-49D4-836F-D5A405FA7696}
+	EndGlobalSection
+EndGlobal
